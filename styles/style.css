@@ -133,6 +133,14 @@ p {
   border-radius: 10px;
   max-width: 400px;
 }
+
+#blog-pic,
+#products-pic {
+  border-radius: 15px;
+  display: flex;
+  max-width: 500px;
+}
+
 nav {
   padding: 20px 0;
 }
