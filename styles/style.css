@@ -63,7 +63,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 100px 20px;
 }
 
 .content-container p {
@@ -138,6 +138,11 @@ p {
 #products-pic {
   border-radius: 15px;
   display: flex;
+  max-width: 500px;
+}
+
+#snow {
+  border-radius: 18px;
   max-width: 500px;
 }
 
@@ -228,5 +233,18 @@ footer .social-links a:hover {
   .about-section {
     text-align: center;
     padding: 0;
+  }
+  .about-paragraph {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+  }
+  .content-container {
+    padding: 20px 20px;
+  }
+
+  #niunia-basic,
+  #snow {
+    max-width: 350px;
   }
 }
