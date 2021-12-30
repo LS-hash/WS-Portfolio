@@ -247,4 +247,8 @@ footer .social-links a:hover {
   #snow {
     max-width: 350px;
   }
+  #blog-pic,
+  #products-pic {
+    max-width: 250px;
+  }
 }
